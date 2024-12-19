@@ -2,15 +2,11 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/dimaswigoena/dimaswigoena/output/snake.svg" alt="Snake animation" />
-
-###
-
 <h3 align="left">👩‍💻  Tentang Saya</h3>
 
 ###
 
-<p align="left">Saya, Dimas Wigoena<br>Seorang programmer yang masih terus belajar dan berfokus pada Desktop Development dan Web Development.</p>
+<p align="left">Saya, Dimas Wigoena <br> Seorang programmer pemula yang sedang membangun keterampilan dalam dunia pengembangan perangkat lunak. Saya tertarik untuk mengeksplorasi berbagai teknologi seperti HTML, PHP, JavaScript, React, dan lainnya untuk Frontend, serta teknologi Codeigniter, Laravel dan lainnya untuk Backend. Di sini, saya berbagi proyek-proyek kecil saya dan belajar dari pengalaman. Saya berkomitmen untuk terus berkembang, dan mengasah keterampilan saya di dunia coding!</p>
 
 ###
 
@@ -27,27 +23,19 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=laravel" height="40" alt="laravel logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="codeigniter logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
@@ -55,6 +43,10 @@
 ###
 
 <h3 align="left">🔥   My Stats :</h3>
+
+###
+
+<img src="https://raw.githubusercontent.com/dimaswigoena/dimaswigoena/output/snake.svg" alt="Snake animation" />
 
 ###
 
