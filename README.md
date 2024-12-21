@@ -1,15 +1,13 @@
-<h1 align="center">Halo Semuanya 👋</h1>
+<h2 align="left">Tentang Saya</h3>
 
 ###
-
-<h3 align="left">👩‍💻  Tentang Saya</h3>
-
-###
-
 <p align="left">Saya, Dimas Wigoena <br> Seorang programmer pemula yang sedang membangun keterampilan dalam dunia pengembangan perangkat lunak. Saya tertarik untuk mengeksplorasi berbagai teknologi seperti HTML, PHP, JavaScript, React, dan lainnya untuk Frontend, serta teknologi Codeigniter, Laravel dan lainnya untuk Backend. Di sini, saya berbagi proyek-proyek kecil saya dan belajar dari pengalaman. Saya berkomitmen untuk terus berkembang, dan mengasah keterampilan saya di dunia coding!</p>
 
 ###
 
+<h2 align="left">Kontak Saya</h3>
+
+###
 <div align="left">
   <a href="https://www.linkedin.com/in/dimaswigoena" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
@@ -17,8 +15,7 @@
 </div>
 
 ###
-
-<h3 align="left">🛠 Bahasa Pemrograman & Tools</h3>
+<h2 align="left"> Languages & Tools</h3>
 
 ###
 
